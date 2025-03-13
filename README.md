@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gugulothu-Narendar
 - 👀 I’m interested in  .Net Developer...
-- 🌱 I’m currently learning C#,HTML,CSS,JavaScript,ADO.NET,ASP.NET and SQL Server ...
+- - I have Completed Full Stack .NET Core in Naresh I Technologies
+
 
 
 
