@@ -9,10 +9,6 @@
 ## 💻 Tech Stack:
 
 * Languages: C#, HTML, CSS, JavaScript, SQL<br>- Frameworks: .NET Core, ASP.NET MVC, Web API<br>- Libraries/Tools: Entity Framework, ADO.NET<br>- Databases: SQL Server<br>- IDEs: Visual Studio, VS Code
-
-## ✉️ Contact:
-
-* Email: [your.email@example.com](mailto:your.email@example.com)<br>- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
 <!---
 Gugulothu-Narendar/Gugulothu-Narendar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
